@@ -1,5 +1,5 @@
 ﻿  sp14_voroshilov.cpp
-C:\voroshilov\sp14_voroshilov\sp14_voroshilov\sp14_voroshilov.cpp(35,40): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
-C:\voroshilov\sp14_voroshilov\sp14_voroshilov\sp14_voroshilov.cpp(44,43): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
-C:\voroshilov\sp14_voroshilov\sp14_voroshilov\sp14_voroshilov.cpp(49,41): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
-  sp14_voroshilov.vcxproj -> C:\voroshilov\sp14_voroshilov\x64\Debug\sp14_voroshilov.exe
+D:\ProgrammingAll\3kurs\sp14_voroshilov\sp14_voroshilov\sp14_voroshilov.cpp(35,40): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+D:\ProgrammingAll\3kurs\sp14_voroshilov\sp14_voroshilov\sp14_voroshilov.cpp(45,43): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+D:\ProgrammingAll\3kurs\sp14_voroshilov\sp14_voroshilov\sp14_voroshilov.cpp(50,41): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  sp14_voroshilov.vcxproj -> D:\ProgrammingAll\3kurs\sp14_voroshilov\x64\Debug\sp14_voroshilov.exe
