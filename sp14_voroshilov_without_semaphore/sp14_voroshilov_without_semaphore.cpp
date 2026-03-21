@@ -97,10 +97,11 @@ DWORD WINAPI ObserverThread() {
         }
         else if (club.clients[i]->timeout) {
             std::cout << "timeout client - " << club.clients[i]->threadId << std::endl;
+            avgTimeWaiting += 3;
         }
     }
 
-    std::cout << "avg waiting time - " << avgTimeWaiting / (double)club.servedCount << std::endl;
+    std::cout << "avg waiting time - " << avgTimeWaiting / MAX_CLIENTS << std::endl;
     std::cout << "avg service time - " << avgServiceTime / (double)club.servedCount << std::endl;
 
 

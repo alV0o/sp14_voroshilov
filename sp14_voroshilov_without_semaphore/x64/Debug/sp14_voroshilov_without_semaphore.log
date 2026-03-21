@@ -1,5 +1,5 @@
 ﻿  sp14_voroshilov_without_semaphore.cpp
-D:\ProgrammingAll\3kurs\sp14_voroshilov\sp14_voroshilov_without_semaphore\sp14_voroshilov_without_semaphore.cpp(37,40): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
-D:\ProgrammingAll\3kurs\sp14_voroshilov\sp14_voroshilov_without_semaphore\sp14_voroshilov_without_semaphore.cpp(45,47): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
-D:\ProgrammingAll\3kurs\sp14_voroshilov\sp14_voroshilov_without_semaphore\sp14_voroshilov_without_semaphore.cpp(49,45): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
-  sp14_voroshilov_without_semaphore.vcxproj -> D:\ProgrammingAll\3kurs\sp14_voroshilov\x64\Debug\sp14_voroshilov_without_semaphore.exe
+C:\voroshilov\sp14_voroshilov\sp14_voroshilov_without_semaphore\sp14_voroshilov_without_semaphore.cpp(37,40): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+C:\voroshilov\sp14_voroshilov\sp14_voroshilov_without_semaphore\sp14_voroshilov_without_semaphore.cpp(45,47): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+C:\voroshilov\sp14_voroshilov\sp14_voroshilov_without_semaphore\sp14_voroshilov_without_semaphore.cpp(49,45): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  sp14_voroshilov_without_semaphore.vcxproj -> C:\voroshilov\sp14_voroshilov\x64\Debug\sp14_voroshilov_without_semaphore.exe
